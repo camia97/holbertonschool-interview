@@ -1,0 +1,1 @@
+Function with an algorithm to unlock all boxes
